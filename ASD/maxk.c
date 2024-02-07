@@ -19,4 +19,4 @@ int main()
         if (s>ms){ms=s;}
     }
     printf("%lld", ms);
-}//на 27б из ЕГЭ похоже
+}
